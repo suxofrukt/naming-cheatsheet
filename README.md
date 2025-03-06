@@ -3,7 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 <
-T
+TR
 # Naming cheatsheet
 
 - [English language](#english-language)
